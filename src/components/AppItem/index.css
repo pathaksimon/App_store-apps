@@ -1,0 +1,20 @@
+.appslist {
+  height: 100px;
+  width: 100px;
+  background-color: white;
+  list-style: none;
+  margin: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.appPhotu {
+  width: 50%;
+  height: 7vh;
+}
+
+.para {
+  font-size: 10px;
+}

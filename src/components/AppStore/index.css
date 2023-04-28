@@ -1,0 +1,50 @@
+.bg-container {
+  background-image: linear-gradient(to bottom, #fff1eb, #ace0f9);
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card1 {
+  width: 50%;
+  height: 90vh;
+}
+
+.search-icon {
+  height: 25px;
+  width: 25px;
+  border: 1px solid black;
+  border-left: none;
+}
+
+.inputValues {
+  height: 25px;
+  width: 140px;
+  border-top-style: hidden;
+  border: 1px solid black;
+  outline: none;
+}
+
+.icons {
+  display: flex;
+}
+
+.uolist {
+  display: flex;
+  list-style: none;
+
+  padding-left: 0px;
+}
+
+.uolist2 {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.centerist {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
